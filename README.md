@@ -22,18 +22,15 @@ npm run server
 ```
 
 ### Screenshots
-```
-1. Home Page
-```
+
+#### 1. Home Page
+
 ![](ss/home-page.png)
 
-
-```
-2. Add task
-```
+#### 2. Add Task
 <img src="ss/add-task.png">
 
-```
-3. Task List
-```
+#### 3. Task List
 <img src="ss/task-list.png">
+
+## Tutorial followed (https://www.youtube.com/watch?v=3dHNOWTI7H8)
