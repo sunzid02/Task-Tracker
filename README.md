@@ -33,4 +33,8 @@ npm run server
 #### 3. Task List
 <img src="ss/task-list.png">
 
-## Tutorial followed (https://www.youtube.com/watch?v=3dHNOWTI7H8)
+## Tutorial followed 
+```
+https://www.youtube.com/watch?v=3dHNOWTI7H8
+```
+
