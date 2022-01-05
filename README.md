@@ -1,5 +1,5 @@
 # Task-Tracker
-Simple SPA where you can use CRUD operations to maintain your tasks. Mock backend JSON-Server is used to get the data.
+Simple SPA where you can use CRUD operations to maintain your tasks. Mock JSON-Server has been used to get the data from backend.
 
 ## Usage
 
