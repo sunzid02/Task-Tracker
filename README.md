@@ -31,4 +31,9 @@ npm run server
 ```
 2. Add task
 ```
-<img src="ss/add-task.png" width="100">
+<img src="ss/add-task.png">
+
+```
+3. Task List
+```
+<img src="ss/task-list.png">
