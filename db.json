@@ -22,13 +22,7 @@
       "id": 4,
       "text": "Test",
       "day": "May 7th at 12:30pm",
-      "reminder": false
-    },
-    {
-      "id": 5,
-      "text": "Test Shopping",
-      "day": "May 7th at 12:30pm",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
